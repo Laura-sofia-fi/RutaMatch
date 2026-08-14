@@ -1,0 +1,35 @@
+Nombre del proyecto
+
+RutaMatch – Sistema inteligente de transporte compartido
+
+Organización o contexto
+
+RutaMatch es una solución tecnológica orientada a universidades, empresas, instituciones y comunidades que presentan problemas de movilidad cotidiana. El sistema permite conectar personas que realizan desplazamientos similares, de manera que un usuario que tenga vehículo pueda compartir su recorrido con otras personas que se dirijan al mismo destino o que se encuentren dentro de una ruta con un nivel de coincidencia de al menos el 90 %.
+
+La plataforma busca aprovechar los vehículos que ya realizan determinados recorridos, permitiendo compartir el transporte entre conductores y pasajeros. De esta manera, se disminuye la cantidad de vehículos necesarios para realizar los mismos desplazamientos y se facilita el acceso a opciones de transporte más eficientes.
+
+Problema empresarial
+
+Existe un uso poco eficiente de los vehículos particulares debido a que muchas personas realizan recorridos similares utilizando vehículos diferentes y, en muchos casos, viajando solas. Esto genera un aumento en la cantidad de vehículos circulando, mayores costos de transporte, congestión y un aprovechamiento limitado de la capacidad disponible en los automóviles.
+
+Además, actualmente puede ser difícil encontrar personas que realicen rutas suficientemente similares para compartir un vehículo de forma conveniente y segura. Los usuarios necesitan una solución que permita comparar automáticamente los puntos de origen, destino y recorrido para determinar si un conductor y uno o varios pasajeros pueden compartir el mismo trayecto.
+
+Por esta razón, se plantea desarrollar un sistema que analice las rutas de los usuarios y permita establecer coincidencias cuando el recorrido entre el conductor y los pasajeros tenga como mínimo un 90 % de similitud.
+
+Usuarios involucrados
+
+1. Conductores:
+   Personas que cuentan con un vehículo y desean compartir su recorrido con otros usuarios que tengan una ruta similar.
+
+2. Pasajeros:
+   Personas que necesitan transporte y buscan compartir un vehículo con un conductor que realice un recorrido compatible con su origen y destino.
+
+3. Administrador del sistema:
+   Usuario encargado de gestionar la plataforma, supervisar los registros, administrar usuarios, controlar incidencias y verificar el correcto funcionamiento del sistema.
+
+4. Organización:
+   Universidad, empresa, institución o comunidad que implemente la solución para facilitar la movilidad de sus integrantes.
+
+Objetivo general de la solución
+
+Desarrollar un sistema inteligente de transporte compartido que permita conectar conductores y pasajeros mediante el análisis de sus rutas, identificando coincidencias de al menos un 90 % entre los recorridos, con el propósito de optimizar el uso de los vehículos, reducir la cantidad de desplazamientos individuales y facilitar una alternativa de movilidad más eficiente, económica y organizada.
